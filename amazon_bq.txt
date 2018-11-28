@@ -1,0 +1,64 @@
+Amazon Behavior Question:
+Be Professional
+1. I am pleasure to be here and excited about this opportunity.
+
+Why I want to work in Amazon?
+1. Amazon is a top internet customer centric online retailing company with focus on customer experience, amazing culture(work hard, have fun, make history), and its vision, earth’s most customer centric company inspires me. I am a person who respect hard working and care a lot about customer user experience, so the culture attracts me a lot. 
+2. The growth of the company is pretty impressive, it is not only an online retail shop but also has a wide range of products like Alexa, Kindle, fire tablet, and TV, Amazon cloud service. 
+3. Amazing technology: AWS, Prime, Echo, Kindle e-readers, fire tablets.
+4. I am willing to learn more knowledge and also want to contribute mine five years experience to Amazon, help Amazon to build the world, make something happen.
+
+Why choose this position?
+	1. The position I have applied is software development position in Amazon AWS Bay Area of San Francisco. First of all, Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow. Millions of customers currently leverage AWS cloud products and solutions to build sophisticated applications with increased flexibility, scalability and reliability. Tens of thousands of customers use a broad range of AWS services. This has accelerated AWS’ pace in machine learning, artificial intelligence, internet of things, and serverless computing.
+
+Introduce myself:
+	My name is Xiaochong Zhang, I have been working on software design and development related work for past five years. My experience includes communicating and analyzing user requirements, current, I work in F5 network automation team, my task is to maintain our team internal framework infrastructure, and provide service for both dev and QA team. My first job is a developer job oriented to customers’ requirements, I helped to design and develop all meet our customers’ needs very well.  I can deliver products with both great performance and easy-to-use experience. I am also happy to learn new technologies and incorporate them with what I’ve been doing. Keeping learning and being curious always refreshes my mind with better designs and solutions.
+
+1. Customer Obsession:
+The biggest mistake you made and what did you learn from it?  (earn trust, customer obsession)
+* The biggest mistake I’ve made happened when I took on and led a small project for the first time(according to customers’ requirements, update an existing CLI, add radius/ldap type real server). I got a requirement from the client about updating parts of a certain workflow. So I documented the requirements, worked on them with the team, and released the update to the demo system on time, however, the client tried and didn’t like it.
+* We diagnosed the feedback and system immediately, It turned out that I paid a lot of attention on the changes the client requested us to do, but didn’t do much evaluation on other features that are impacted by the change.
+* I apologized to the client immediately and asked if we could have an extended deliver date. Luckily the client agreed and also showed understanding. Then I called a meeting with all the team members, talked about the feedback, then we walked through the whole workflow step by step together, evaluated all the possible operations that user might take on each step and then tailored the change we were gonna make accordingly. Throughout this process, the team members understood what happened, why the client was not happy, and they also brought up a lot of good opinions. Instead of just telling the team to make changes again, I earned their trust by sharing the feedback with them and working out a solution together.
+* We then released a tentative version to the demo system before the deadline, walked through it with the client and collected feedback provided. Finally, we delivered the update to the production successfully, our client was very happy and used it every day without any trouble yet. 
+2. Ownership:
+   Tell me a time when you had to leave a task unfinished.
+	case1: I owned a project, the communication between ATOM service and our team Jenkins server, when we hired an inter, a small new feature needs to be added on that project, manager let the intern add this feature; however, his code break the service, then I have another project which is not urgent on hand at the mean time, (the atom service communication between with Jenkins service is used everyday, every seconds), I spend around 5 minutes to discuss this situation with my manager for this situation, and also write an notification email to the team(which needs my current job, explain why extend the project a little bit..). then fix the Jenkins Atom code at the first priority.
+	case2: At ArrayNetworks, our code repository is located in BeiJing, we need to communicate the channel to BeiJing through company’s intranet to check out code during the development process, which is very slow, and sometimes, is not stable(if the cvs code server is under maintain, our US site can’t do anything, just wait, lost money.) I describe this situation with my manager, and collect data (frequence happenings) into excel, after a while, show the metrics to my manager, then he agree with me, we create another code server with BeiJing, then we start the code sync at US night with beijing repository, this approach save around 50% time of US dev team. 
+
+3. Invent and Simplify
+    1. In F5 Networks, our warsaw team analysis BigIP daily run, they need to collect all the test results and view the test status one by one, that consuming time and also not efficient if the customer waiting for the build is urgent, then I did the google the groovy search and find a way to implement the test result to the warsaw team through email. if the test failed, they will receive the email immediately, and can get back to customer, this tool improve the work efficiency in warsaw office.
+4. Are Right, A lot:
+    1. Tell me about a time when you  had to work with incomplete data or information: use 2nd rule case 2.
+    2. Tell me about a time when you were wrong:
+        1. Use 1st rule’s example.
+    3. Make a decision but also consider the opinions of the other people:
+        1. When I work on the design the infrastructure side of robot framework for our team, I design a prototype and reserve a meeting around 2hrs with my manager and teammates go through the design details and collect feedback, where needs to be improved, and where needs to be correct, then after implementation, everyone  satisfy my the robot framework.
+5. Learn and be curious:
+    1. tell me about a time when you solved a problem through just superior knowledge or oberservation.
+        1. Learn Jenkins file, learn CD/CI concept, go through some source code of the jenkins tool, then develop the robot framework, and jenkins internal structure for our team.
+        2. Recently learn NoSQL Database, will convince my manger to replace the SQL database to NoSQL Database.
+6. Hire and develop the best:
+    1. Tell me about a time when you had to deal with a poor performer on your team?
+        1. When we have a new hire, or someone is not very familiar with our system workflow or coding style, I usually have lunch together with he/she, then we discuss the system infrastructure and also our team coding style, after a while, she can pass the code review and commit some code into our code repository.
+        2. When I transfer a project to another team or person, I usually work with that person for a while on this project, then I did the transfer.
+7. Insist on the highest standards: 
+    1. Tell me a bout a time when you could have stopped working but persisted.
+        1. When I worked in Array Networks, I worked on the database health check project, after implement the clear text part of mysql and mssql, it seems the project is done; however, at modern days, everywhere is security, I insist to finish the SSL part implementation. After the SSL version come out, our customer is really happy with that feature.
+8. Think Big:
+    1. Tell me about a time when you went way beyond the scope of the project and delivered.
+        1. My proudest project is implement the database health check for mysql and mssql, my proud is not only for the techniques I achieved, at beginning of the project, we just required to implement mysql clear-text version database health check, then I talked with my manager for the mssql database is also widely used, then we decide to implement the mssql as well, after the mssql version come out, we deliever to our customer, they were very staisfy with the product, then I think SSL is also widely used, then we work on the SSL part, after the SSL part come out, the customer really happy with our product, from this project, I learn how to think for a long term, how to meets customers’ requirements.
+9. Bias for action:
+    1. Once our code was broken by one of our teammates; however, he is offline at that time, some developers push our team to update the running results, then they can know whether or not the bug has been fixed. I am a kind familiar with that part, first of all I go through the code on code repository, then I figure out the issue, I did fix and then submit it. it turns out that my fix resolve the issue. Before I do the fix, I evaluate the cost, if I did nothing, the service is still down, I did something, maybe the service is UP.
+10. Frugality
+    1. Tell me about a time where you thought of a clever new way to save money for the company.
+        1. For most of the internal tools, we will google first instead of developing by ourselves.
+
+Most challenging project?
+* The most challenging project I’ve done was an online collaborative coding platform, it’s like Leetcode but with collaborative feature. The most challenging part was to incorporate collaborative features with the code editor, that is, user in a same coding room can see the real-time cursor movements and typing actions of the other users.
+* It was challenging because I was supposed to come up with the solution and implement it by myself, and I have never developed something like this before.
+* So I started with composing a visual solution first, the work I’ve done included researching online collaborative products, listing core features I needed, building wireframes, and designing UI. With the visual solution, I had a good understanding on how the application would work. Then, I googled and read a lot of system design solutions for products with similar features, like Google doc, online chatting room, etc. With what I’ve read, I was able to draft out my own solutions and selected corresponding technologies.
+* I implemented it successfully within the given time, and my solution received a positive feedback because it is not only working well, but also visually pleasing. Throughout this process, I learned that it is important to be curious and keep learning, try to read as many technical blogs or articles as you can, the more you read, the better you’ll ace a problem or design. The feeling of ownership is very important, some other students just gave up with the excuse “I don’t how to do it"
+
+
+
+
