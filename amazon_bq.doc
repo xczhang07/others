@@ -32,23 +32,65 @@ Introduce myself:
 
 1. Customer Obsession:
 The biggest mistake you made and what did you learn from it?  (earn trust, customer obsession)
-* The biggest mistake I’ve made happened when I took on and led a small project for the first time(according to customers’ requirements, update an existing CLI, add radius/ldap type real server). I got a requirement from the client about updating parts of a certain workflow. So I documented the requirements, worked on them with the team, and released the update to the demo system on time, however, the client tried and didn’t like it.
-* We diagnosed the feedback and system immediately, It turned out that I paid a lot of attention on the changes the client requested us to do, but didn’t do much evaluation on other features that are impacted by the change.
-* I apologized to the client immediately and asked if we could have an extended deliver date. Luckily the client agreed and also showed understanding. Then I called a meeting with all the team members, talked about the feedback, then we walked through the whole workflow step by step together, evaluated all the possible operations that user might take on each step and then tailored the change we were gonna make accordingly. Throughout this process, the team members understood what happened, why the client was not happy, and they also brought up a lot of good opinions. Instead of just telling the team to make changes again, I earned their trust by sharing the feedback with them and working out a solution together.
-* We then released a tentative version to the demo system before the deadline, walked through it with the client and collected feedback provided. Finally, we delivered the update to the production successfully, our client was very happy and used it every day without any trouble yet. 
+* The biggest mistake I’ve made happened when I took on and led a small project for the first time
+(according to customers’ requirements, update an existing CLI, add radius/ldap type real server). 
+I got a requirement from the client about updating parts of a certain workflow. 
+So I documented the requirements, worked on them with the team, and released the update to the demo system on time, 
+however, the client tried and didn’t like it.
+
+* We diagnosed the feedback and system immediately, 
+It turned out that I paid a lot of attention on the changes the client requested us to do, 
+but didn’t do much evaluation on other features that are impacted by the change.
+
+* I apologized to the client immediately and asked if we could have an extended deliver date.
+Luckily the client agreed and also showed understanding. 
+Then I called a meeting with all the team members, talked about the feedback, 
+then we walked through the whole workflow step by step together,
+evaluated all the possible operations that user might take on each step and then tailored the change we were gonna make accordingly. 
+Throughout this process, the team members understood what happened, why the client was not happy, 
+and they also brought up a lot of good opinions. Instead of just telling the team to make changes again, 
+I earned their trust by sharing the feedback with them and working out a solution together.
+
+* We then released a tentative version to the demo system before the deadline, 
+walked through it with the client and collected feedback provided. 
+Finally, we delivered the update to the production successfully, 
+our client was very happy and used it every day without any trouble yet. 
 2. Ownership:
    Tell me a time when you had to leave a task unfinished.
-	case1: I owned a project, the communication between ATOM service and our team Jenkins server, when we hired an inter, a small new feature needs to be added on that project, manager let the intern add this feature; however, his code break the service, then I have another project which is not urgent on hand at the mean time, (the atom service communication between with Jenkins service is used everyday, every seconds), I spend around 5 minutes to discuss this situation with my manager for this situation, and also write an notification email to the team(which needs my current job, explain why extend the project a little bit..). then fix the Jenkins Atom code at the first priority.
-	case2: At ArrayNetworks, our code repository is located in BeiJing, we need to communicate the channel to BeiJing through company’s intranet to check out code during the development process, which is very slow, and sometimes, is not stable(if the cvs code server is under maintain, our US site can’t do anything, just wait, lost money.) I describe this situation with my manager, and collect data (frequence happenings) into excel, after a while, show the metrics to my manager, then he agree with me, we create another code server with BeiJing, then we start the code sync at US night with beijing repository, this approach save around 50% time of US dev team. 
+	case1: I owned a project, the communication between ATOM service and our team Jenkins server, when we hired an inter, 
+	a small new feature needs to be added on that project, manager let the intern add this feature; 
+	however, his code break the service, then I have another project which is not urgent on hand at the mean time, 
+	(the atom service communication between with Jenkins service is used everyday, every seconds), 
+	I spend around 5 minutes to discuss this situation with my manager for this situation, 
+	and also write an notification email to the team
+	(which needs my current job, explain why extend the project a little bit..). 
+	then fix the Jenkins Atom code at the first priority.
+	
+	case2: At ArrayNetworks, our code repository is located in BeiJing, 
+	we need to communicate the channel to BeiJing through company’s intranet to check out code during the development process,
+	which is very slow, and sometimes, is not stable(if the cvs code server is under maintain, 
+	our US site can’t do anything, just wait, lost money.) I describe this situation with my manager, 
+	and collect data (frequence happenings) into excel, 
+	after a while, show the metrics to my manager, then he agree with me, 
+	we create another code server with BeiJing, 
+	then we start the code sync at US night with beijing repository, this approach save around 50% time of US dev team. 
 
 3. Invent and Simplify
-    1. In F5 Networks, our warsaw team analysis BigIP daily run, they need to collect all the test results and view the test status one by one, that consuming time and also not efficient if the customer waiting for the build is urgent, then I did the google the groovy search and find a way to implement the test result to the warsaw team through email. if the test failed, they will receive the email immediately, and can get back to customer, this tool improve the work efficiency in warsaw office.
+    1. In F5 Networks, our warsaw team analysis BigIP daily run, they need to collect all the test results and view the test status one by one, 
+    that consuming time and also not efficient if the customer waiting for the build is urgent, 
+    then I did the google the groovy search and find a way to implement the test result to the warsaw team through email. 
+    if the test failed, they will receive the email immediately, and can get back to customer, 
+    this tool improve the work efficiency in warsaw office.
+    
 4. Are Right, A lot:
     1. Tell me about a time when you  had to work with incomplete data or information: use 2nd rule case 2.
     2. Tell me about a time when you were wrong:
         1. Use 1st rule’s example.
     3. Make a decision but also consider the opinions of the other people:
-        1. When I work on the design the infrastructure side of robot framework for our team, I design a prototype and reserve a meeting around 2hrs with my manager and teammates go through the design details and collect feedback, where needs to be improved, and where needs to be correct, then after implementation, everyone  satisfy my the robot framework.
+        1. When I work on the design the infrastructure side of robot framework for our team, 
+	I design a prototype and reserve a meeting around 2hrs with my manager and teammates go through the design details and collect feedback, 
+	where needs to be improved, and where needs to be correct, then after implementation, 
+	everyone  satisfy my the robot framework.
 5. Learn and be curious:
     1. tell me about a time when you solved a problem through just superior knowledge or oberservation.
         1. Learn Jenkins file, learn CD/CI concept, go through some source code of the jenkins tool, then develop the robot framework, and jenkins internal structure for our team.
@@ -76,5 +118,12 @@ Most challenging project?
 * I implemented it successfully within the given time, and my solution received a positive feedback because it is not only working well, but also visually pleasing. Throughout this process, I learned that it is important to be curious and keep learning, try to read as many technical blogs or articles as you can, the more you read, the better you’ll ace a problem or design. The feeling of ownership is very important, some other students just gave up with the excuse “I don’t how to do it"
 
 
+what the weakness of your previous company?
+I enjoyed the people I worked with. It was a friendly and fun atmosphere, and I actually enjoyed going to work each morning.
+I felt the leadership team was great as well. 
+They knew all of their employees on a first name basis and tried to make those personal connections. 
+I also enjoyed that fact that the office tried to do community outreach with local organizations.
+One of the reasons I’m leaving is that I felt I was not challenged enough at the job. As a new employee in the working world, the company offered me a great opportunity for a good entry level position—one that I’ll always be grateful for. However, after being there for so many years, I felt I wasn’t able to reach my full potential because of a real lack of challenge. There was no room for advancement in the company. While I did enjoy working there and appreciate the skills I developed while with the company, I feel my skill set can be better utilized elsewhere, 
+where my capabilities are more recognized, and there is the opportunity for growth.
 
 
